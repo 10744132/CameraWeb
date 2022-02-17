@@ -1,0 +1,16 @@
+.name -><div class=name></div>
+shift+alt+down ->快速複製
+ctrl+b -> 關閉工具列
+lorem+單字量->製造假文字
+https://bennettfeely.com/clippy/ 動畫網站
+*keyframe 用來製造動畫 
+from -> to  
+EX:
+@keyframes 自訂義動畫名稱{
+    from{
+        開頭
+    }
+    to{
+        結尾
+    }
+}
